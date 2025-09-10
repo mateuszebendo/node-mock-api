@@ -29,10 +29,10 @@ npm install express cors body-parser
 
 ### Iniciando o Servidor
 
-Execute o comando (substitua `nome_do_arquivo.js` pelo nome real do seu arquivo):
+Execute o comando:
 
 ```bash
-node nome_do_arquivo.js
+node server.js
 ```
 
 O servidor será iniciado na porta **3000**:  
